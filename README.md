@@ -1,3 +1,7 @@
+Important : deprecation notice
+==============================
+This project is now part of the OpenStack project [tripleo-ha-utils](https://github.com/openstack/tripleo-ha-utils). All the stuff in this repository must be considered deprecated.
+
 Instance HA on TripleO Environments
 ===================================
 
